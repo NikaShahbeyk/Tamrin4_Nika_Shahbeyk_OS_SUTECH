@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\bin\Debug\net8.0\TAMRIN4.exe
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\bin\Debug\net8.0\TAMRIN4.deps.json
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\bin\Debug\net8.0\TAMRIN4.runtimeconfig.json
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\bin\Debug\net8.0\TAMRIN4.dll
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\bin\Debug\net8.0\TAMRIN4.pdb
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\TAMRIN4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\TAMRIN4.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\TAMRIN4.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\TAMRIN4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\TAMRIN4.dll
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\refint\TAMRIN4.dll
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\TAMRIN4.pdb
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\TAMRIN4.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Tamrin4\TAMRIN4\obj\Debug\net8.0\ref\TAMRIN4.dll
